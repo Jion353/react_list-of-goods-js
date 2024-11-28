@@ -83,7 +83,7 @@ export const App = () => {
           <button
             type="button"
             className="button is-danger is-light"
-            onClick={() => Reset(L)}
+            onClick={() => Reset()}
           >
             Reset
           </button>
